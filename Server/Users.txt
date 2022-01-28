@@ -1,0 +1,7 @@
+qwerty 123 0 0
+qwertyu 1234 0 0
+asdfgh 123 0 0
+zxcvbnm 1234 0 0
+poiuytr 12345 0 0
+asdasd asdasd 2 1
+qweqwe qweqwe 1 1
